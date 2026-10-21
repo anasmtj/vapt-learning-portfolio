@@ -30,3 +30,11 @@ All testing documented here is performed in authorised training environments. Th
 ## Progress
 
 Currently learning: TryHackMe Jr Penetration Tester path.
+### Completed TryHackMe Rooms
+
+- Guided Pentesting: Web
+- Guided Pentesting: Infrastructure
+- Dive into Pentesting
+- Cyber Kill Chain
+
+**Current focus:** Building foundational penetration-testing knowledge through the Jr Penetration Tester path and documenting practical learning.
